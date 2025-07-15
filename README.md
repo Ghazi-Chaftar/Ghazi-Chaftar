@@ -8,23 +8,33 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=radixui&logoColor=white&style=flat-square)
-![TanStack](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=react-query&logoColor=white&style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-shadcn/ui-000000?logo=radixui&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+</p>
 
 ### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+</p>
 
 ### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+</p>
+
+</div>
 
 ---
 
