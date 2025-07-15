@@ -29,9 +29,9 @@
 ---
 
 ## 🌟 Featured Projects
-- 🔗 [SkillBridge](https://github.com/Ghazi-Chaftar/SkillBridge): Platform for connecting clients and architects
+- 🔗 [SkillBridge](https://github.com/Ghazi-Chaftar/SkillBridge): Platform that connects students with qualified tutors
 - 🔗 [ISIMM Management System](https://github.com/Ghazi-Chaftar/stormynight9): University admin platform
-- 🔗 [Collecti](https://github.com/elayeboussama/collecti): Task management and collection app
+- 🔗 [Collecti](https://github.com/elayeboussama/collecti): Events collection app
 
 ---
 
