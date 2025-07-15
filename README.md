@@ -10,28 +10,30 @@
 
 <div align="center">
 
+<div align="center">
+
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-shadcn/ui-000000?logo=radixui&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" width="60" alt="Tailwind CSS"/>
+  <img src="https://ui.shadcn.com/favicon.ico" height="60" width="60" alt="shadcn/ui"/>
+  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="60" width="60" alt="TanStack Query"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" width="60" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" width="60" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="Python"/>
+  <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" height="60" width="60" alt="Celery"/>
 </p>
 
 ### DevOps
 <p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="60" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" width="60" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" width="60" alt="GitHub Actions"/>
 </p>
 
 </div>
