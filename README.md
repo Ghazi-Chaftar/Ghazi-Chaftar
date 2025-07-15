@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 <p>
