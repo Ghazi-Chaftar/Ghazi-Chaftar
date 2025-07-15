@@ -10,15 +10,13 @@
 
 <div align="center">
 
-<div align="center">
-
 ### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" width="60" alt="Tailwind CSS"/>
-  <img src="https://ui.shadcn.com/favicon.ico" height="60" width="60" alt="shadcn/ui"/>
-  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="60" width="60" alt="TanStack Query"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" width="60" alt="Tailwind CSS"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="60" width="60" alt="shadcn/ui"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" height="60" width="120" alt="TanStack Query"/>
 </p>
 
 ### Backend
@@ -26,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" width="60" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" width="60" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="Python"/>
-  <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" height="60" width="60" alt="Celery"/>
+  <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" height="60" width="60" alt="Celery"/>
 </p>
 
 ### DevOps
